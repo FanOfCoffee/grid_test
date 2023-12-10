@@ -211,7 +211,6 @@
         grid-column: 1/6;
         display: grid;
         grid-template-rows: 1fr 1fr 1fr 1fr;
-        
         align-content: center;
         grid-gap: 10px;
     }
