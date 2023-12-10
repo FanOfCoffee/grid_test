@@ -14,8 +14,6 @@
     grid-template-rows: 80% 1fr 1fr;
     text-align: center;
     grid-gap: 10px;
-    
-
 }
 
 .sidebar {
@@ -43,9 +41,6 @@
     height: 100vh;
 }
 
-h2 {
-    
-}
 .head {
     grid-column: 1/3;
     align-self: self-start;
