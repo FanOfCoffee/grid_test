@@ -1,8 +1,8 @@
 
 .header {
     background-color: aquamarine;
-    grid-column: 1/6;
     display: grid;
+    grid-column: 1/6;
     align-items: center;
     justify-content: center;
 }
